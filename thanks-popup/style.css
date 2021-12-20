@@ -3,9 +3,9 @@
   padding: 0;
 }
 
-.popup{
-    display: flex;
-    font-family: "Montserrat", sans-serif;
+.popup {
+  display: flex;
+  font-family: "Montserrat", sans-serif;
 }
 
 .left {
@@ -32,7 +32,7 @@
 }
 
 h1 {
-    margin-top: 210px;
+  margin-top: 210px;
   font-size: 80px;
   z-index: 10;
   font-family: Impact;
@@ -45,106 +45,106 @@ h1 {
   color: #f2a500;
 }
 
-.the-addr{
-    margin-top: 260px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 600;
-    font-size: 15px;
+.the-addr {
+  margin-top: 260px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 15px;
 }
 
-.right{
-    width: 60%;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    /* align-items: center; */
-    flex-direction: column;
+.right {
+  width: 60%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  flex-direction: column;
 }
 
-.fill-form{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.fill-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-#u-name{
-    margin-top: 20px;
+#u-name {
+  margin-top: 20px;
 }
 
-input{
-    color: #c4c4c4;
-    border: 3px solid #a6a4a4;
-    box-sizing: border-box;
-    width: 434px;
-    height: 42px;
-    font-weight: 600;
-    font-size: 20px;
-    padding: 10px;
-    margin: 10px 0;
+input {
+  color: #c4c4c4;
+  border: 3px solid #a6a4a4;
+  box-sizing: border-box;
+  width: 434px;
+  height: 42px;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 10px;
+  margin: 10px 0;
 }
 
-input[type="checkbox"]{
-    width: 18px;
-    height: 18px;
-    box-sizing: border-box;
-    margin-right: 10px;
+input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+  margin-right: 10px;
 }
 
-label{
-    text-align: center;
-    align-items: center;
+label {
+  text-align: center;
+  align-items: center;
 }
 
-textarea{
-    margin: 25px 0;
-    color: #c4c4c4;
-    width: 434px;
-    height: 77px;
-    border: 3px solid #a6a4a4;
-    box-sizing: border-box;
-    font-weight: 600;
-    font-size: 20px;
-    padding: 10px;
+textarea {
+  margin: 25px 0;
+  color: #c4c4c4;
+  width: 434px;
+  height: 77px;
+  border: 3px solid #a6a4a4;
+  box-sizing: border-box;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 10px;
 }
 
-.div-btn{
-    margin: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.div-btn {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .submit-ur-application {
-    font-family: "Montserrat", sans-serif;
-    color: #fff;
-    border: none;
-    /* position: absolute; */
-    width: 155px;
-    height: 40px;
-    padding: 10px;
-    background-color: #ec7f00;
-    border-radius: 10px;
-    font-weight: 500;
-    transition: .4s ease-in;
-  }
-  
-  .submit-ur-application:hover{
-    background: #aa5b00;
-  }
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+  border: none;
+  /* position: absolute; */
+  width: 155px;
+  height: 40px;
+  padding: 10px;
+  background-color: #ec7f00;
+  border-radius: 10px;
+  font-weight: 500;
+  transition: 0.4s ease-in;
+}
 
-  .insta{
-      margin: 10px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-  }
+.submit-ur-application:hover {
+  background: #aa5b00;
+}
 
-  .insta> span{
-      margin-left: 20px;
-      text-align: center;
-      align-items: center;
-  }
+.insta {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
-  .contacts{
-      margin: 10px;
-  }
+.insta > span {
+  margin-left: 20px;
+  text-align: center;
+  align-items: center;
+}
+
+.contacts {
+  margin: 10px;
+}
