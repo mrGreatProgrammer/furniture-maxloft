@@ -7,6 +7,7 @@ const theSite = document.querySelector('.the-site');
 
 const toTopUpEl = document.querySelector("#to-top-up")
 
+// LOADER
 var i =0 
 var inID = setInterval(() => {
 i += 50
@@ -26,7 +27,7 @@ setTimeout(() => {
 }, 5500);
 
 
-
+// SCROLLING
 window.onscroll = () => {
   if (window.scrollY > 700) {
     toTopUpEl.classList.remove('isShowBtn_hide')

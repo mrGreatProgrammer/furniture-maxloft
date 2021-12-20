@@ -253,7 +253,7 @@ h3 {
 
 main {
   position: relative;
-  z-index: 3px;
+  z-index: 3;
   background: #fff;
 }
 
@@ -350,16 +350,7 @@ main {
   text-align: center;
 }
 
-/* .shadow-img::after{
-  content: '';
-  background: #EC7F00;
-  height: 265px;
-  width: 265px;
-  display: block;
-  margin-top: -230px;
-  margin-left: 50px;
-  z-index: 1;
-} */
+
 
 .advantages {
   display: flex;
